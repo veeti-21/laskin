@@ -44,3 +44,5 @@ try
             break;
     }
 } catch { Console.WriteLine("virhe laita numero joka on listassa"); }
+
+
