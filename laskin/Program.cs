@@ -1,7 +1,7 @@
 static double Pluslasku(double luku1, double luku2)
 {
     return luku1 + luku2;
-
+}
     static double Minuslasku(double luku1, double luku2)
 {
     return luku1 - luku2;
