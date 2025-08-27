@@ -12,8 +12,9 @@ switch (lasku) {
         break;
     case 3:
         break;
-    case 4:
+    case 4:// lasketaan jako lasku ja näytetään asiakkaalle 
+        int summa = luku1 / luku2;
+        Console.WriteLine($"{luku1} / {luku2} = {summa}");
         break;
-
 }
 
