@@ -18,7 +18,7 @@ static double Jakolasku(double luku1, double luku2)
 
 try
 {
-    Console.WriteLine("minkä laskun haluat tehdä summa = 1 vähennys = 2 kerto = 3 jako = 4 clear 5; ");
+    Console.WriteLine("minkä laskun haluat tehdä summa = 1 vähennys = 2 kerto = 3 jako = 4: ");
     double lasku = double.Parse(Console.ReadLine());
     Console.WriteLine("luku 1: ");
     double luku1 = double.Parse(Console.ReadLine());
