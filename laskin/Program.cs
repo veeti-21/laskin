@@ -8,7 +8,7 @@ double luku2 = double.Parse(Console.ReadLine());
 switch (lasku) {
     case 1:
         double summa = luku1 + luku2;
-        Console.WriteLine("Summa on: " + summa);            // Käyttäjä syöttää luvun 1 ja 2, sitten laskin laskee ne yhteen ja tulostaa lopputuloksen.
+        Console.WriteLine("Summa on: " + summa);            // Käyttäjä syöttää luvun 1 ja 2, sitten laskin laskee ne yhteen ja tulostaa lopputuloksen.  Lasku tapahtuu double- muuttujalla.
         break;
 
         break;
