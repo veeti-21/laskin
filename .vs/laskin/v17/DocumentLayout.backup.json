@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veeti\\source\\repos\\laskin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB6077E-AC02-4DD9-8939-44833BAC48BB}|laskin\\laskin.csproj|c:\\users\\veeti\\source\\repos\\laskin\\laskin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB6077E-AC02-4DD9-8939-44833BAC48BB}|laskin\\laskin.csproj|solutionrelative:laskin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veeti\\source\\repos\\laskin\\laskin\\Program.cs",
+              "RelativeDocumentMoniker": "laskin\\Program.cs",
+              "ToolTip": "C:\\Users\\Veeti\\source\\repos\\laskin\\laskin\\Program.cs",
+              "RelativeToolTip": "laskin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:03:33.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
