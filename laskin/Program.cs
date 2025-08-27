@@ -1,4 +1,4 @@
-﻿static double Kertolasku(double luku1, double luku2)
+static double Kertolasku(double luku1, double luku2)
 {
     return luku1 * luku2;
 }
