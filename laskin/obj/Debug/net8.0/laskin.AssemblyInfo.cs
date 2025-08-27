@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laskin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d678c31bcf02fc7bbaf1930420a15e604a3a0e90")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33bfbcef1a44eacaa293c7706b28edd6fcc9d773")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("laskin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laskin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
