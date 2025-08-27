@@ -43,4 +43,4 @@ try
             Console.WriteLine("numerota ei ollut listassa");
             break;
     }
-} catch { Console.WriteLine("virhe"); }
+} catch { Console.WriteLine("virhe laita numero joka on listassa"); }
