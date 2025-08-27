@@ -1,0 +1,15 @@
+C:\Users\Veeti\source\repos\laskin\laskin\bin\Debug\net8.0\laskin.exe
+C:\Users\Veeti\source\repos\laskin\laskin\bin\Debug\net8.0\laskin.deps.json
+C:\Users\Veeti\source\repos\laskin\laskin\bin\Debug\net8.0\laskin.runtimeconfig.json
+C:\Users\Veeti\source\repos\laskin\laskin\bin\Debug\net8.0\laskin.dll
+C:\Users\Veeti\source\repos\laskin\laskin\bin\Debug\net8.0\laskin.pdb
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.AssemblyInfoInputs.cache
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.AssemblyInfo.cs
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.csproj.CoreCompileInputs.cache
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.sourcelink.json
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.dll
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\refint\laskin.dll
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.pdb
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\laskin.genruntimeconfig.cache
+C:\Users\Veeti\source\repos\laskin\laskin\obj\Debug\net8.0\ref\laskin.dll
