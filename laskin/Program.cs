@@ -15,6 +15,12 @@ switch (lasku) {
     case 2:
         break;
     case 3:
+        static double Kertolasku(double luku1, double luku2)
+        {
+            return luku1 * luku2;
+        }
+        Kertolasku(luku1, luku2)
+        
         break;
     case 4:// lasketaan jako lasku ja näytetään asiakkaalle 
         double summa = luku1 / luku2;
